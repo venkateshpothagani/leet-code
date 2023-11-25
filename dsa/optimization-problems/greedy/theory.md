@@ -1,5 +1,0 @@
-# GREEDY METHOD
-
-1. 
-
-
